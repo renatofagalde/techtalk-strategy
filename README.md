@@ -15,7 +15,7 @@ java -jar ./target/techtalk-strategy-1.0-SNAPSHOT-jar-with-dependencies.jar json
 java -jar ./target/techtalk-strategy-1.0-SNAPSHOT-jar-with-dependencies.jar  xml < ./dados/MOCK_DATA.txt
 ```
 
-### Cenario "EXCEL"
+### Cenario "YAML"
 ```shell
-java -jar ./target/techtalk-strategy-1.0-SNAPSHOT-jar-with-dependencies.jar xls < ./dados/MOCK_DATA.txt
+java -jar ./target/techtalk-strategy-1.0-SNAPSHOT-jar-with-dependencies.jar yaml < ./dados/MOCK_DATA.txt
 ```
