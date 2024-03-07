@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class RelatorioServiceTest {
+public class CriarRelatorioServiceTest {
 
     private RelatorioService underTest;
 
